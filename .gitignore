@@ -27,4 +27,4 @@ Thumbs.db
 
 # ───── Miscellaneous ──────────────
 *.log
-coverage/
+coverage/ 
