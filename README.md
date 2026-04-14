@@ -1,5 +1,5 @@
 
-# e‑Commerce Gapsi — Frontend (CRA + React 17)
+# Supplier Management Web — Frontend (CRA + React 17)
 
 Proyecto base del **reto técnico** implementado con **Create React App**, **React 17**, **Redux Toolkit**, **React Router v6** y **Axios**.  
 Este documento explica **archivo por archivo** qué hace cada pieza, cómo ejecutar, cómo configurar variables y tips de solución de problemas.
